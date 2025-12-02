@@ -1,0 +1,7 @@
+Age,MonthlyIncome,Attrition,Department,JobSatisfaction
+25,30000,No,Sales,3
+30,45000,Yes,HR,2
+45,70000,No,R&D,4
+29,38000,Yes,Sales,1
+41,62000,No,R&D,3
+
